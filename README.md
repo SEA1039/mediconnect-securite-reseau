@@ -8,7 +8,7 @@ MediConnect est une société fictive qui exploite une plateforme de prise de re
 
 ## Rapport
 
-Le rapport complet (architecture, plan d'adressage, zones, niveaux de confiance, VPN, authentification, filtrage, identité, contrôle applicatif, DMZ, administration, journalisation, tests, limites) est dans [`Rapport-MediConnect.pdf`](Rapport-MediConnect.pdf).
+Le rapport complet (architecture, plan d'adressage, zones, niveaux de confiance, VPN, authentification, filtrage, identité, contrôle applicatif, DMZ, administration, journalisation, tests, limites) est dans [`Rapport-MediConnect.pdf`](Rapport_MediConnect.pdf).
 
 ## Architecture
 
